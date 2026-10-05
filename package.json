@@ -1,0 +1,1 @@
+{"dependencies":{"@capacitor/android":"^6.0.0","@capacitor/cli":"^6.0.0","@capacitor/core":"^6.0.0"},"description":"Tailor Shop Manager — Android wrapper","name":"tailor-shop-manager","private":true,"scripts":{"sync":"npx cap sync"},"version":"1.0.0"}
